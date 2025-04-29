@@ -2,14 +2,14 @@
 .DS_Store
 Thumbs.db
 
-# Arquivos temporários comuns
+# Arquivos temporários 
 *~
 *.bak
 *.tmp
 *.swp
 *.swo
 
-# Editor de texto (ex: VSCode)
+# Editor de texto 
 .vscode/
 
 # Arquivos de log ou saída
