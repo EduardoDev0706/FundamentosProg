@@ -4,6 +4,7 @@ Este repositório é dedicado ao estudo e prática dos **fundamentos da programa
 
 - [CS50 – Introduction to Computer Science](https://cs50.harvard.edu/)
 - *Structure and Interpretation of Computer Programs* (SICP)
+- Material Extra: Algoritmos: Teoria e Prática - Thomas H. Cormen
 
 ## 🎯 Objetivo
 
@@ -24,3 +25,4 @@ Estes objetos de estudo são relevantes para mim por meio de um desejo de **ente
 
 - [`CS50/`](./CS50/) – Material e exercícios do curso *CS50 – Introduction to Computer Science*
 - [`SICP/`](./SICP/) – Estudos e implementações do livro *Structure and Interpretation of Computer Programs*
+- [`Algoritmos/`](./Algoritmos/) - Estudo de Algoritmos por meio do Cormen
